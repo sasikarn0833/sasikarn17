@@ -7,3 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 n = int(input())
+if n : int("==")
+print("Even")
+else:
+print("Odd")
